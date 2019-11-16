@@ -1,0 +1,15 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 10rem;
+  background-color: orange;
+  color: darkgreen;
+}
+
+* {
+  box-sizing: border-box;
+}
